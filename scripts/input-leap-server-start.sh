@@ -1,2 +1,2 @@
 #!/bin/bash
-input-leaps --restart --log ./input-leaps.log --disable-crypto -f
+sudo input-leaps --config ~/dotfiles/input-leap/input-leap.conf --restart --log ./input-leaps.log --disable-crypto -f

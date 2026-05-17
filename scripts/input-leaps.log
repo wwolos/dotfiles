@@ -1,0 +1,9 @@
+input-leaps: no configuration available
+started server (IPv4), waiting for clients
+[2026-05-17T12:12:28] NOTE: Logical output size: 1920x1080@0.0
+[2026-05-17T12:12:28] NOTE: Logical output size: 1920x1080@0.0
+[2026-05-17T12:12:28] NOTE: Logical output size: 1920x1080@0.0
+[2026-05-17T12:12:38] NOTE: stopped server
+[2026-05-17T12:13:03] WARNING: Running against Xwayland. InputLeap will not work as expected
+started server (IPv4), waiting for clients
+[2026-05-17T12:13:15] NOTE: stopped server
