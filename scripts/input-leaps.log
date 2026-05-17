@@ -7,3 +7,9 @@ started server (IPv4), waiting for clients
 [2026-05-17T12:13:03] WARNING: Running against Xwayland. InputLeap will not work as expected
 started server (IPv4), waiting for clients
 [2026-05-17T12:13:15] NOTE: stopped server
+[2026-05-17T12:21:20] WARNING: Running against Xwayland. InputLeap will not work as expected
+started server (IPv4), waiting for clients
+[2026-05-17T12:21:29] NOTE: accepted client connection
+[2026-05-17T12:21:29] NOTE: client "LAPTOP" has connected
+[2026-05-17T12:21:56] NOTE: disconnecting client "LAPTOP"
+[2026-05-17T12:21:58] NOTE: stopped server
