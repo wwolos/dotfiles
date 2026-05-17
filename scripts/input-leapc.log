@@ -1,0 +1,90 @@
+[2026-05-17T12:21:29] WARNING: Running against Xwayland. InputLeap will not work as expected
+[2026-05-17T12:21:29] NOTE: started client
+[2026-05-17T12:21:29] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+connected to server
+[2026-05-17T12:21:58] NOTE: disconnected from server
+[2026-05-17T12:21:59] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:21:59] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:00] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:00] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:01] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:01] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:02] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:02] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:03] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:04] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:05] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:05] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:06] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:06] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:07] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:07] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:08] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:09] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:10] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:10] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:11] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:11] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:12] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:13] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:14] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:14] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:15] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:15] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:16] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:16] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:18] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:18] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:19] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:19] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:20] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:20] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:21] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:21] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:22] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:22] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:23] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:23] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:24] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:24] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:25] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:26] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:27] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:27] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:28] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:28] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:29] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:29] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:30] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:30] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:31] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:31] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:32] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:32] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:33] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:34] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:35] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:35] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:36] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:36] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:37] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:37] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:38] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:38] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:39] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:39] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:40] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:40] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:41] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:42] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:43] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:43] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:44] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:44] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:45] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:45] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:46] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:47] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:48] NOTE: connecting to '192.168.1.14': 192.168.1.14:24800
+[2026-05-17T12:22:48] WARNING: failed to connect to server: Connection refused
+[2026-05-17T12:22:48] NOTE: stopped client
